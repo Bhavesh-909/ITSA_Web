@@ -1,3 +1,4 @@
 /backend/.env
 /backend/.vscode
+.vscode
 /backend/*/__pycache__
